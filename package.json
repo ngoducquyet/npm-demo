@@ -1,0 +1,18 @@
+{
+  "name": "@ngoducquyet/npm-demo",
+  "version": "1.0.1",
+  "description": "A first demo package",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Quyet Ngo <ngoducquyet2018@gmail.com> (http://quyetngo.cf)",
+  "license": "ISC"
+}
